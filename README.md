@@ -209,9 +209,9 @@
 
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OnlineUnknow)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/201286669272)
-[![Support](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/onlineunknowns)
+[![Support](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/CodesZero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onlineunknown/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/OnlineUnknowns)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/CodesZero)
 
 # Full Stack Developer | Cybersecurity Expert | Network Specialist 👨‍💻 
  
@@ -308,7 +308,7 @@
 <td width="50%" valign="top">
 
 ### 🇲🇦 &nbsp; BLS Morocco Bot
-[![Repo](https://img.shields.io/badge/GitHub-BLS--Morocco-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/BLS-Morocco-Bot-Selfi-bypass-)
+[![Repo](https://img.shields.io/badge/GitHub-BLS--Morocco-00D4FF?style=flat-square&logo=github)](https://github.com/CodesZero/BLS-Morocco-Bot-Selfi-bypass-)
 ![Featured](https://img.shields.io/badge/⭐-FEATURED-FFD700?style=flat-square)
 ![Bypass](https://img.shields.io/badge/Selfie%20Bypass-Enabled-00FF88?style=flat-square)
 
@@ -318,7 +318,7 @@
 <td width="50%" valign="top">
 
 ### 🇵🇰 &nbsp; BLS Pakistan Bot
-[![Repo](https://img.shields.io/badge/GitHub-BLS--Pakistan-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/BLS-Pakistan-Bot)
+[![Repo](https://img.shields.io/badge/GitHub-BLS--Pakistan-00D4FF?style=flat-square&logo=github)](https://github.com/CodesZero/BLS-Pakistan-Bot)
 ![Status](https://img.shields.io/badge/Status-Live-00FF88?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Booking%20Bot-8B5CF6?style=flat-square)
 
@@ -330,7 +330,7 @@
 <td width="50%" valign="top">
 
 ### 🇩🇿 &nbsp; BLS Algeria Bot
-[![Repo](https://img.shields.io/badge/GitHub-BLS--Algeria-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/BLS-Algeria-Bot-Booking--Selfie--Bypass-)
+[![Repo](https://img.shields.io/badge/GitHub-BLS--Algeria-00D4FF?style=flat-square&logo=github)](https://github.com/CodesZero/BLS-Algeria-Bot-Booking--Selfie--Bypass-)
 ![Featured](https://img.shields.io/badge/⭐-FEATURED-FFD700?style=flat-square)
 ![Bypass](https://img.shields.io/badge/Selfie%20Bypass-Enabled-00FF88?style=flat-square)
 
@@ -340,7 +340,7 @@
 <td width="50%" valign="top">
 
 ### 🇲🇷 &nbsp; Mauritania BLS Bot
-[![Repo](https://img.shields.io/badge/GitHub-Mauritania--Bot-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/Mauritania-BLS-Bot)
+[![Repo](https://img.shields.io/badge/GitHub-Mauritania--Bot-00D4FF?style=flat-square&logo=github)](https://github.com/CodesZero/Mauritania-BLS-Bot)
 ![Status](https://img.shields.io/badge/Status-Live-00FF88?style=flat-square)
 ![Region](https://img.shields.io/badge/Region-West%20Africa-FF6B35?style=flat-square)
 
@@ -376,7 +376,7 @@
 <td width="50%" valign="top">
 
 ### 🇮🇹 &nbsp; Prenotami Italy Bot
-[![Repo](https://img.shields.io/badge/GitHub-Prenotami--Italy-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/Prenotami-Bot-Booking-Apointment-ITALY-)
+[![Repo](https://img.shields.io/badge/GitHub-Prenotami--Italy-00D4FF?style=flat-square&logo=github)](https://github.com/CodesZero/Prenotami-Bot-Booking-Apointment-ITALY-)
 ![Featured](https://img.shields.io/badge/⭐-FEATURED-FFD700?style=flat-square)
 ![Target](https://img.shields.io/badge/Target-Prenotami.esteri.it-FF6B35?style=flat-square)
 
@@ -386,7 +386,7 @@
 <td width="50%" valign="top">
 
 ### 🇩🇪 &nbsp; Germany Appointment Bot
-[![Repo](https://img.shields.io/badge/GitHub-Germany--Appointment-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/Germany-appointment-booking-bot)
+[![Repo](https://img.shields.io/badge/GitHub-Germany--Appointment-00D4FF?style=flat-square&logo=github)](https://github.com/CodesZero/Germany-appointment-booking-bot)
 ![Status](https://img.shields.io/badge/Status-Live-00FF88?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Slot%20Sniper-8B5CF6?style=flat-square)
 
@@ -422,7 +422,7 @@
 <td width="33%" valign="top">
 
 ### 🇹🇷 &nbsp; VFS Turkey Bot
-[![Repo](https://img.shields.io/badge/GitHub-VFS--Turkey-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/VFS-Turkey-Bot-Appointment-)
+[![Repo](https://img.shields.io/badge/GitHub-VFS--Turkey-00D4FF?style=flat-square&logo=github)](https://github.com/CodesZero/VFS-Turkey-Bot-Appointment-)
 ![Status](https://img.shields.io/badge/Status-Live-00FF88?style=flat-square)
 ![Network](https://img.shields.io/badge/Network-VFS%20Global-8B5CF6?style=flat-square)
 
@@ -432,7 +432,7 @@
 <td width="33%" valign="top">
 
 ### 🌍 &nbsp; VFS Global Bot
-[![Repo](https://img.shields.io/badge/GitHub-VFS--Global-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/VFS-GLOBAL-Appointment-Bot)
+[![Repo](https://img.shields.io/badge/GitHub-VFS--Global-00D4FF?style=flat-square&logo=github)](https://github.com/CodesZero/VFS-GLOBAL-Appointment-Bot)
 ![Featured](https://img.shields.io/badge/⭐-FEATURED-FFD700?style=flat-square)
 ![Coverage](https://img.shields.io/badge/Coverage-Multi--Region-FF6B35?style=flat-square)
 
@@ -442,7 +442,7 @@
 <td width="33%" valign="top">
 
 ### 🇮🇹 &nbsp; Almaviva Bot
-[![Repo](https://img.shields.io/badge/GitHub-Almaviva--Bot-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/Almaviva-Bot)
+[![Repo](https://img.shields.io/badge/GitHub-Almaviva--Bot-00D4FF?style=flat-square&logo=github)](https://github.com/CodesZero/Almaviva-Bot)
 ![Status](https://img.shields.io/badge/Status-Live-00FF88?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Portal%20Automation-8B5CF6?style=flat-square)
 
@@ -468,15 +468,15 @@
 
 | # | Bot | Platform | Highlight | Link |
 |---|-----|----------|-----------|------|
-| 01 | **BLS Morocco Bot** | BLS International | Selfie Bypass | [→ View Repo](https://github.com/OnlineUnknowns/BLS-Morocco-Bot-Selfi-bypass-) |
-| 02 | **BLS Pakistan Bot** | BLS International | Slot Sniper | [→ View Repo](https://github.com/OnlineUnknowns/BLS-Pakistan-Bot) |
-| 03 | **BLS Algeria Bot** | BLS International | Selfie Bypass | [→ View Repo](https://github.com/OnlineUnknowns/BLS-Algeria-Bot-Booking--Selfie--Bypass-) |
-| 04 | **Mauritania Bot** | BLS International | Auto-Booking | [→ View Repo](https://github.com/OnlineUnknowns/Mauritania-BLS-Bot) |
-| 05 | **Prenotami Italy Bot** | Italy Embassy | Portal Automation | [→ View Repo](https://github.com/OnlineUnknowns/Prenotami-Bot-Booking-Apointment-ITALY-) |
-| 06 | **Germany Appointment Bot** | DE Consulate | Real-Time Sniping | [→ View Repo](https://github.com/OnlineUnknowns/Germany-appointment-booking-bot) |
-| 07 | **VFS Turkey Bot** | VFS Global | Session Management | [→ View Repo](https://github.com/OnlineUnknowns/VFS-Turkey-Bot-Appointment-) |
-| 08 | **VFS Global Bot** | VFS Global | Multi-Region | [→ View Repo](https://github.com/OnlineUnknowns/VFS-GLOBAL-Appointment-Bot) |
-| 09 | **Almaviva Bot** | Almaviva | Italian Consulates | [→ View Repo](https://github.com/OnlineUnknowns/Almaviva-Bot) |
+| 01 | **BLS Morocco Bot** | BLS International | Selfie Bypass | [→ View Repo](https://github.com/CodesZero/BLS-Morocco-Bot-Selfi-bypass-) |
+| 02 | **BLS Pakistan Bot** | BLS International | Slot Sniper | [→ View Repo](https://github.com/CodesZero/BLS-Pakistan-Bot) |
+| 03 | **BLS Algeria Bot** | BLS International | Selfie Bypass | [→ View Repo](https://github.com/CodesZero/BLS-Algeria-Bot-Booking--Selfie--Bypass-) |
+| 04 | **Mauritania Bot** | BLS International | Auto-Booking | [→ View Repo](https://github.com/CodesZero/Mauritania-BLS-Bot) |
+| 05 | **Prenotami Italy Bot** | Italy Embassy | Portal Automation | [→ View Repo](https://github.com/CodesZero/Prenotami-Bot-Booking-Apointment-ITALY-) |
+| 06 | **Germany Appointment Bot** | DE Consulate | Real-Time Sniping | [→ View Repo](https://github.com/CodesZero/Germany-appointment-booking-bot) |
+| 07 | **VFS Turkey Bot** | VFS Global | Session Management | [→ View Repo](https://github.com/CodesZero/VFS-Turkey-Bot-Appointment-) |
+| 08 | **VFS Global Bot** | VFS Global | Multi-Region | [→ View Repo](https://github.com/CodesZero/VFS-GLOBAL-Appointment-Bot) |
+| 09 | **Almaviva Bot** | Almaviva | Italian Consulates | [→ View Repo](https://github.com/CodesZero/Almaviva-Bot) |
 
 </div>
 
@@ -514,7 +514,7 @@
 
 <sub>Built with precision · Engineered for speed · Deployed for dominance</sub>
 
-[![Profile](https://img.shields.io/badge/GitHub-OnlineUnknowns-181717?style=flat-square&logo=github)](https://github.com/OnlineUnknowns)
+[![Profile](https://img.shields.io/badge/GitHub-CodesZero-181717?style=flat-square&logo=github)](https://github.com/CodesZero)
 
 </div>
 </div>
