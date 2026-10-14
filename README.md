@@ -1,8 +1,8 @@
-# 🚀 OT/ICS Security Specialist
+# ⌬ Software Engineer · Security Tooling · Automation
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=+CyberSecurity+%7C+Ornithopter+Architecture;Biomimetic+UAV+%7C+Critical+Energy+Infrastructure;Fast+%7C+Reliable+%7C+Scalable+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Security+Tooling+%26+Automation;Windows+Desktop+Apps+%7C+Electron%2C+React%2C+TypeScript;Python%2C+Selenium+%26+Playwright+Automation;Linux+Kernel+Modules+%7C+Cryptography" />
 
 <br/>
 
@@ -205,22 +205,13 @@
 </div>
 
 </p>
-# Unknown 🌌
+# SoftwaresHub 🌌
 
-[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OnlineUnknow)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/201286669272)
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SoftwaresHub)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/201200655872)
 [![Support](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/CodesZero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onlineunknown/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/CodesZero)
-
-# Full Stack Developer | Cybersecurity Expert | Network Specialist 👨‍💻 
- 
----
-## 🚀 Career Timeline
-- **2018**: Joined as a **Cybersecurity Analyst** at].
-- **2015**: Started contributing to **Open Source Projects**.
-- **2013**: Developed multiple **Full Stack applications** for clients.
-- **2010**: Obtained a **certification in Network Administration**.
 
 ---
 
@@ -943,4 +934,31 @@ Continuous learning is non-negotiable in security. Frameworks, communities, and 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
 </div>
+
+## ◈ About
+
+**Software Engineer** · Security Tooling · Automation · Windows Desktop Apps
+
+I've been writing code on Windows since the 2000s. Today I build automation tools, desktop applications, and low-level security projects, with a long-standing interest in cryptography.
+
+---
+
+## ◈ Background
+
+▸ **Coding since the 2000s:** self-taught, starting on Windows
+▸ **Automation:** appointment-booking and portal automation tools
+▸ **Desktop apps:** Windows software built with Electron, React, and TypeScript
+▸ **Security:** Linux kernel module work and cryptography
+▸ **Open source:** public projects on GitHub
+
+# CodesZero 🌌
+
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SoftwaresHub)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/201200655872)
+[![Support](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/CodesZero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onlineunknown/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/CodesZero)
+
+
+
 
