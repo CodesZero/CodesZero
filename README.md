@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines+Software+Engineer+%7C+Security+Tooling+%26+Automation;Windows+Desktop+Apps+%7C+Electron%2C+React%2C+TypeScript;Python%2C+Selenium+%26+Playwright+Automation;Linux+Kernel+Modules+%7C+Cryptography" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=+Software+Engineer+%7C+Security+Tooling+%26+Automation;Windows+Desktop+Apps+%7C+Electron%2C+React%2C+TypeScript;Python%2C+Selenium+%26+Playwright+Automation;Linux+Kernel+Modules+%7C+Cryptography" />
 
 <br/>
 
